@@ -1,0 +1,6 @@
+{
+  "name": "FF Genius AI",
+  "description": "Production-ready AI companion for Free Fire players with real-time coach, sensitivity generator, interactive HUD designer, skin studio, 3D preview, performance telemetry, and training drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
